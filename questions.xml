@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions theme="Cultura Geral">
+	<question text="Em que constelação está a estrela polar?" answer="2">
+		<option>Ursa Maior</option>
+		<option>Ursa Menor</option>
+		<option>Cassiopeia</option>
+	</question>
+	<question text="Qual a estrela mais próxima da Terra?" answer="1">
+		<option>Sol</option>
+		<option>Lua</option>
+		<option>Estrela Polar</option>
+	</question>
+	<question text="Qual o planeta mais próximo do Sol?" answer="3">
+		<option>Vénus</option>
+		<option>Marte</option>
+		<option>Mercúrio</option>
+	</question>
+	<question text="Quem introduziu o teatro em Portugal?" answer="1">
+		<option>Gil Vicente</option>
+		<option>Almeida Garret</option>
+		<option>Eça de Queirós</option>
+	</question>
+	<question text="Onde é segregada a bílis?" answer="1">
+		<option>No Fígado</option>
+		<option>No Pâncreas</option>
+		<option>Nos Pulmões</option>
+	</question>
+	<question text="Por quantos ossos é constituido o esqueleto humando?" answer="3">
+		<option>199</option>
+		<option>200</option>
+		<option>206</option>
+	</question>
+	<question text="Como se chama a camada da pele que está à superfície?" answer="2">
+		<option>Derme</option>
+		<option>Epiderme</option>
+		<option>Nervo</option>
+	</question>
+	<question text="Qual o órgão que protege o nosso corpo das agressões do meio ambiente?" answer="1">
+		<option>Pele</option>
+		<option>Músculos</option>
+		<option>Ossos</option>
+	</question>
+	<question text="Em que século começaram os descobrimentos portugueses?" answer="2">
+		<option>XIV</option>
+		<option>XV</option>
+		<option>XVI</option>
+	</question>
+	<question text="Em que reinado foram descobertos os Açores?" answer="1">
+		<option>D. João I</option>
+		<option>D. Duarte</option>
+		<option>D. João II</option>
+	</question>
+	<question text="Quem foi o primeiro rei de Portugal?" answer="1">
+		<option>D. Afonso Henriques</option>
+		<option>D. Sanchol</option>
+		<option>D. Dinis</option>
+	</question>
+	<question text="Qual foi o último rei de Portugal?" answer="2">
+		<option>Marcelo Caetano</option>
+		<option>D. Manuel II</option>
+		<option>D. Sebastião</option>
+	</question>
+	<question text="O maior órgão do corpo humano é?" answer="1">
+		<option>Pele</option>
+		<option>Pulmões</option>
+		<option>Fígado</option>
+	</question>
+	<question text="Um pleonasmo é?" answer="1">
+		<option>O acto de dizer duas expressões com o mesmo significado</option>
+		<option>Um vocábolo novo, recém criado</option>
+		<option>O nome de um vírus que provoca ulcerações</option>
+	</question>
+	<question text="O Brasil foi oficialmente descoberto por?" answer="2">
+		<option>Cristóvão Colombo</option>
+		<option>Pedro Álvares Cabral</option>
+		<option>Afonso de Albuquerque</option>
+	</question>
+	<question text="Cirrus, Nimbos e Cúmulos, são nomes" answer="3">
+		<option>de três caravelas que Vasco da Gama levou até à Índia</option>
+		<option>dos três deuses que guardavam as portas do Olimpo na mitologia grega</option>
+		<option>do três tipos de nuvens, em que elas se classificam</option>
+	</question>
+	<question text="A célebre frase «Penso, logo existo», foi pronunciada por?" answer="1">
+		<option>René Descartes</option>
+		<option>Sócrates</option>
+		<option>Aristóteles</option>
+	</question>
+	<question text="O Papa Português foi?" answer="2">
+		<option>Paulo VI</option>
+		<option>João XXI</option>
+		<option>Santo António</option>
+	</question>
+	<question text="A constelação em forma de W, visível no hemisfério Norte, cahma-se?" answer="3">
+		<option>Áries</option>
+		<option>Orion</option>
+		<option>Cassiopeia</option>
+	</question>
+	<question text="Em que ano chegou Vasco da Gama à Índia?" answer="1">
+		<option>1498</option>
+		<option>1500</option>
+		<option>1640</option>
+	</question>
+	<question text="O macho da abelha chama-se?" answer="1">
+		<option>Zangão</option>
+		<option>Besouro</option>
+		<option>Abelhão</option>
+	</question>
+	<question text="Qual o maior rio Português?" answer="1">
+		<option>Tejo</option>
+		<option>Mondego</option>
+		<option>Guadiana</option>
+	</question>
+	<question text="Completa o seguinte provérbio: Quem o alheio veste, na praça" answer="1">
+		<option>o despe</option>
+		<option>o entrega</option>
+		<option>o suja</option>
+	</question>
+	<question text="Na história ficou conhecido como o desejado. Quem foi?" answer="2">
+		<option>D. Manuel II</option>
+		<option>D. Sebastião</option>
+		<option>D. Dinis</option>
+	</question>
+	<question text="Rei poeta, subiu ao trono em 1279. Foi fundador da Universidade em Portugal. Quem foi?" answer="1">
+		<option>D. Dinis</option>
+		<option>D. Sebastião</option>
+		<option>D. José</option>
+	</question>
+	<question text="Esposa de D. Dinis, a tradição associa o seu nome ao «milagre das rosas». De quem se trata?" answer="1">
+		<option>Isabel de Aragão</option>
+		<option>Inês de Castro</option>
+		<option>Leonor Teles</option>
+	</question>
+	<question text="O que significa inócuo?" answer="2">
+		<option>Prejudicial</option>
+		<option>Inofensivo</option>
+		<option>Útil</option>
+	</question>
+	<question text="O que significa célere?" answer="1">
+		<option>Rápido</option>
+		<option>Pequeno</option>
+		<option>Atrapalhado</option>
+	</question>
+	<question text="Foi fundador e o primeiro rei de Portugal. Quem foi?" answer="3">
+		<option>D. João I</option>
+		<option>D. Duarte</option>
+		<option>D. Afonso Henriques</option>
+	</question>
+	<question text="O que significa fleumático?" answer="3">
+		<option>Pequeno</option>
+		<option>Raro</option>
+		<option>Imperturbável</option>
+	</question>
+	<question text="O que significa enigmático?" answer="1">
+		<option>Misterioso</option>
+		<option>Preocupado</option>
+		<option>Suspeito</option>
+	</question>
+	<question text="Qual foi o tema da Expo98?" answer="2">
+		<option>A terra</option>
+		<option>Os oceanos</option>
+		<option>O espaço</option>
+	</question>
+	<question text="Qual destas ilhas faz parte do arquipélago da Madeira?" answer="3">
+		<option>Pico</option>
+		<option>Flores</option>
+		<option>Porto Santo</option>
+	</question>
+	<question text="A ponta de Sagres fica:" answer="2">
+		<option>Ao largo de Lisboa</option>
+		<option>No Algarve</option>
+		<option>A norte de Portugal</option>
+	</question>
+	<question text="Qual destas cidades não fica no Alentejo?" answer="2">
+		<option>Évora</option>
+		<option>Viana do Castelo</option>
+		<option>Beja</option>
+	</question>
+	<question text="Onde fica o ponto mais ocidental da Europa?" answer="3">
+		<option>No cabo Mondego</option>
+		<option>No cabo de S.Vicente</option>
+		<option>Na ilha das Flores</option>
+	</question>
+	<question text="Palavras como azeite e azeitona são de origem árabe. Mas também palavras como" answer="1">
+		<option>Alfarroba e Algarve</option>
+		<option>Vidro e plástico</option>
+		<option>Maça e pêra</option>
+	</question>
+	<question text="Qual destas cidades está classificada pela Unesco como património da Humanidade?" answer="3">
+		<option>Lisboa</option>
+		<option>Coimbra</option>
+		<option>Angra do Heroísmo</option>
+	</question>
+	<question text="Quem escreveu «A peregrinação»?" answer="3">
+		<option>Padre António Vieira</option>
+		<option>Luís de Camões</option>
+		<option>Fernão Mendes Pinto</option>
+	</question>
+	<question text="O ponto mais alto de Portugal fica" answer="3">
+		<option>No continente</option>
+		<option>Na Madeira</option>
+		<option>Nos Açores</option>
+	</question>
+	<question text="O mirandês é língua falada em Portugal. Onde?" answer="1">
+		<option>Trás os Montes</option>
+		<option>Alentejo</option>
+		<option>Algarve</option>
+	</question>
+	<question text="Segundo o ditado «Águas passadas não movem»" answer="3">
+		<option>Montanhas</option>
+		<option>Muralhas</option>
+		<option>Moinhos</option>
+	</question>
+	<question text="O escritor Miguel Torga foi também" answer="2">
+		<option>Professor</option>
+		<option>Médico</option>
+		<option>Arquitecto</option>
+	</question>
+	<question text="Os inventores da pólvora e do papel foram" answer="1">
+		<option>Chineses</option>
+		<option>Japoneses</option>
+		<option>Americanos</option>
+	</question>
+	<question text="Nome do famoso farol da antiguidade, uma das sete maravilhas da humanidade?" answer="1">
+		<option>Alexandria</option>
+		<option>Stonehenge</option>
+		<option>Mahal</option>
+	</question>
+	<question text="Como se chamava o continente lendário que desapareceu durante um maremoto?" answer="2">
+		<option>Babilónia</option>
+		<option>Atlântida</option>
+		<option>Pompeia</option>
+	</question>
+	<question text="Qual a palavra que não combina com as restantes" answer="3">
+		<option>Visão</option>
+		<option>Ouvido</option>
+		<option>Sorriso</option>
+	</question>
+	<question text="Nos número seguintes há um intruso. Qual?" answer="3">
+		<option>22</option>
+		<option>55</option>
+		<option>17</option>
+	</question>
+	<question text="Ordenando as letras, qual o grupo que corresponde a um alimento?" answer="3">
+		<option>LOEBACA</option>
+		<option>MHINAHA</option>
+		<option>BARTEARBE</option>
+	</question>
+	<question text="Uma das palavras não é um adjectivo. Qual?" answer="3">
+		<option>Fortuito</option>
+		<option>Feliz</option>
+		<option>Fósforo</option>
+	</question>
+	<question text="Uma casa com doze meninas. Cada uma com quatro quartos, todas elas usam meias, nenhuma rompe sapatos. O que é?" answer="1">
+		<option>Relógio</option>
+		<option>Ano</option>
+		<option>Semana</option>
+	</question>
+	<question text="Sete filhos tem a dama, seis trabalham com ardor, de manhã até à noite, reza o sétimo ao senhor." answer="3">
+		<option>Mês</option>
+		<option>Relógio</option>
+		<option>Semana</option>
+	</question>
+	<question text="Sou fruto de Outono. Quando chego a amadurecer, dou um trabalhão ao dono se ele me quiser comer." answer="1">
+		<option>Castanha</option>
+		<option>Noz</option>
+		<option>Maçã</option>
+	</question>
+</questions>
